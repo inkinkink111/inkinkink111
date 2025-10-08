@@ -1,4 +1,6 @@
-<h1>👋 Hi! Nice to see you.</h1>
+<img src="./header.png">
+
+<h1>Hi! Nice to see you.</h1>
 
 <p>I'm Bhiradit, Passionate developer from <b>ChiangMai, Thailand</b></p>
 <h3>💻 Things I code with :</h3>
